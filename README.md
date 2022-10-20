@@ -23,6 +23,10 @@ $ git clone  https://github.com/lexavb76/utils.git
 
 $ utils/start_nvim.sh
 
+$ nvim    #Terminal
+
+$nvim-qt  #GUI
+
 <!---
 lexavb76/lexavb76 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
